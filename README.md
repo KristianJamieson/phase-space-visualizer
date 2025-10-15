@@ -11,7 +11,7 @@ Users can define the system, select which two dimensions to view, and explore tr
 
 ---
 
-## 🚀 Features
+## Features
 - Define any dimension \( n \) and arbitrary equations \( f(x) \)
 - Choose 2D slices \( (x_i, x_j) \) to visualize
 - Hold other coordinates fixed with a JSON array
@@ -22,7 +22,7 @@ Users can define the system, select which two dimensions to view, and explore tr
 
 ---
 
-## 🧰 Installation
+## Installation
 To reproduce locally:
 ```bash
 git clone https://github.com/KristianJamieson/phase-space-visualizer.git
