@@ -70,3 +70,4 @@ Trajectories are computed via RK4 time-stepping from user-selected initial condi
 
 This provides qualitative visualization of equilibrium points, periodic orbits, and limit cycles for nonlinear dynamical systems.
 
+See the full explanatory write-up [here](explanation.md).
