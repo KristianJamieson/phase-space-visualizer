@@ -29,8 +29,8 @@ git clone https://github.com/KristianJamieson/phase-space-visualizer.git
 cd phase-space-visualizer
 npm install
 npm run dev
-
-## 🧠 Usage
+```
+## Usage
 
 1. Enter the system dimension `n` and functions `f(x)` separated by commas.
 2. Optionally specify parameters as JSON (e.g. `{ "mu": 1 }`).
@@ -41,7 +41,7 @@ npm run dev
 
 ---
 
-## 🧮 Example Systems
+## Example Systems
 
 | System | f(x) | Parameters | Behavior |
 |--------|------|-------------|-----------|
@@ -52,7 +52,7 @@ npm run dev
 
 ---
 
-## 📘 Technical Summary
+## Technical Summary
 
 The system integrates the autonomous differential equation
 
