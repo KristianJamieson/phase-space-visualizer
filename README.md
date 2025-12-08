@@ -23,7 +23,8 @@ Users can define the system, select which two dimensions to view, and explore tr
 ---
 
 ## Installation
-To reproduce locally:
+To reproduce locally, open a terminal (PowerShell, Command Prompt, or macOS/Linux shell) and run:
+
 ```bash
 git clone https://github.com/KristianJamieson/phase-space-visualizer.git
 cd phase-space-visualizer
