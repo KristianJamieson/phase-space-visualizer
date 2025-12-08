@@ -2,8 +2,7 @@
 **Author:** Kristian Jamieson  
 **Course:** Modeling and Analysis Project  
 
-Live demo: https://kristianjamieson.github.io/phase-space-app/
-
+Live demo: https://kristianjamieson.github.io/phase-space-visualizer/
 
 An interactive web app to visualize 2D cross-sections of *n*-dimensional autonomous systems  
 \[
